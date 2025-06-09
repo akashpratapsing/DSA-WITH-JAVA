@@ -1,0 +1,39 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Bytecode folders
+bin/
+target/
+
+# Intellij project files
+.idea/
+*.ipr
+*.iws
+*.iml
+
+# Eclipse project files
+.settings/
+.project
+.classpath
+
+# NetBeans
+nbproject/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+/target/
+
+# Temporary files created by developers
+*.tmp
+*~
